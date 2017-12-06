@@ -25,7 +25,7 @@ Segundo o item 2 da Especificação de Versionamento Semântico:
 
 ## Autor
 
-> P&D Bematech 
+> Bematech Software Partners 
 
 ## Licença
 
